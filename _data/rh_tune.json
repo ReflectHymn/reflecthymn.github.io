@@ -1,0 +1,50 @@
+[
+    {
+        "tune_id": "1",
+        "tune_name": "PERPETUA",
+        "tune_copyright": "CC BY-NC-ND",
+        "tune_timesignature": "3/4",
+        "tune_meter": "8.8.8.8.8.8.",
+        "tune_comment": null
+    },
+    {
+        "tune_id": "2",
+        "tune_name": "GOD'S PEOPLE",
+        "tune_copyright": "CC BY-NC-ND",
+        "tune_timesignature": "3/4",
+        "tune_meter": "8.7.8.7.8.7.",
+        "tune_comment": null
+    },
+    {
+        "tune_id": "3",
+        "tune_name": "OBEDIAH",
+        "tune_copyright": "CC BY-NC-ND",
+        "tune_timesignature": "4/4",
+        "tune_meter": "8.7.8.7.8.7.",
+        "tune_comment": null
+    },
+    {
+        "tune_id": "4",
+        "tune_name": "GLENHILL",
+        "tune_copyright": "CC BY-NC-ND",
+        "tune_timesignature": "4/4",
+        "tune_meter": "8.7.8.7.D.",
+        "tune_comment": null
+    },
+    {
+        "tune_id": "5",
+        "tune_name": "GOD OF COMFORT",
+        "tune_copyright": "CC BY-NC-ND",
+        "tune_timesignature": "3/4",
+        "tune_meter": "S.M.D.",
+        "tune_comment": null
+    },
+    {
+        "tune_id": "6",
+        "tune_name": "MORNING GRACE",
+        "tune_copyright": "CC BY-NC-ND",
+        "tune_timesignature": "3/4",
+        "tune_meter": "S.M.",
+        "tune_comment": "by Charissa Singleton, arr. Rebecca Loomis"
+    }
+]
