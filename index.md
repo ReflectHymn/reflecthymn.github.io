@@ -5,12 +5,10 @@
 layout: home
 ---
 
-### ReflectHymn Pieces
-<ul>
-{% for piece in site.data.rh_piece %}
-  <li>
-    RH#{{ piece.piece_id }} — {{ piece.piece_release }}
-    <h3>{{ piece.piece_name}}</h3>
-  </li>
-{% endfor %}
-</ul>
+[![ReflectHymn](/assets/img/rhtop.png)](./about/)
+
+Welcome back!  
+
+- [About Us](./about/)
+- See [Pieces](./pieces) for the list of pieces.
+- Visit us on Github, [ReflectHymn/music](https://github.com/ReflectHymn/music) to see the latest work in progress.
