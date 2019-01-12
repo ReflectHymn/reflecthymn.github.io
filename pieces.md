@@ -3,7 +3,6 @@ layout: page
 title: Pieces
 permalink: /pieces/
 ---
-
 ### ReflectHymn Pieces
 <!-- <ul> -->
 {% for piece in site.data.rh_piece %}
