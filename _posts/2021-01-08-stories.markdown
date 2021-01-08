@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Stories are back!"
+date:   2021-01-08 14:00:00 -0600
+---
+
+Happy New Year! The [Pieces](/pieces) page once again has lyrics, and
+some of the stories behind the tunes. Enjoy!
