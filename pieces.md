@@ -18,5 +18,28 @@ permalink: /pieces/
 
 <i>{{piece.tune_comment}}</i>
 
+{% for tune in site.data.rh_tune %}
+{% if tune.tune_id == piece.tune_id and tune.tune_story  %}
+<details><summary>Story: <i>{{ tune.tune_name }}</i></summary>
+<blockquote>
+{{ tune.tune_story | markdownify }}
+</blockquote>
+</details>
+{% endif %}
+{% endfor %}
+
+
+{% for words in site.data.rh_words %}
+{% if words.words_id == piece.words_id %}
+<details><summary>Lyrics: <i>{{ words.words_name }}</i></summary>
+- Author: {{ words.words_author }} {{ words.words_date }}
+<blockquote>
+{{ words.words_text | markdownify }}
+</blockquote>
+</details>
+{% endif %}
+{% endfor %}
+
+
 {% endfor %}
 <!-- </ul> -->
